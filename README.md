@@ -24,6 +24,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 ---
+
 ## Languages / Runtimes:
 
 <p align="left" style="line-height:0;">
@@ -35,6 +36,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 ---
+
 ## Dev Tools & Shells:
 <p align="left" style="line-height:0;">
   <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" style="display:inline-block;vertical-align:middle;margin:6px;" />
@@ -44,19 +46,19 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 ---
+
 ## Operating Systems:
 <p align="left" style="line-height:0;">
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
-
 ---
+
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nullkernel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullkernel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 ## 🔭 Future goals:
 - Build & polish an **OS** - production-quality OS experimentation.  
