@@ -3,18 +3,23 @@
 Always eager to learn, build, and collaborate.
 
 ---
+
 ## 🚀 About me:
 - 🔭 Currently working on OS, and other projects.
 - 🌱 **Learning:** low-level systems, OS design, and production-ready ML.
 - 👯 Open to collaborations on system-level tools, OS experiments, and ML pipelines.
 - 📫 **Reach me**: check my LinkedIn / Instagram (mentioned in my profile).
+
 ---
+
 ## 🛠️ Main projects:
 - **`DS_Bootcamp`** - Data structures bootcamp material and implementations.  
 - **`CalcPro`** - Lightweight Python calculator.  
 - **`TerminalX`** - Cross-platform terminal emulator project.  
 - **`AutoTap`** - Lightweight automation / auto-clicker utility.  
+
 ---
+
 ## 💻 Tech & Tools:
 ## Frontend / Web:
 <p align="left" style="line-height:0;">
@@ -23,6 +28,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
+
 ---
 
 ## Languages / Runtimes:
@@ -35,6 +41,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
+
 ---
 
 ## Dev Tools & Shells:
@@ -45,6 +52,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
+
 ---
 
 ## Operating Systems:
@@ -53,16 +61,21 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nullkernel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullkernel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
+
 ## 🔭 Future goals:
 - Build & polish an **OS** - production-quality OS experimentation.  
 - Publish reproducible tooling & driver/driver-qa flows for system projects.  
 - Grow an approachable repo portfolio for learners and contributors.
+
 ---
+
 Thanks for stopping by - feel free to open an issue or drop me a message if you want to collaborate!
