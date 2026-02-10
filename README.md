@@ -1,9 +1,9 @@
 ## Frontend / Web
 
 <p align="left" style="line-height:0;">
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="display:inline-block;vertical-align:middle;margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="64" height="64" alt="JavaScript" style="display:inline-block;vertical-align:middle;margin:8px;" />
 </p>
 
 - **HTML** — https://cdn.simpleicons.org/html5  
@@ -15,18 +15,17 @@
 ## Languages / Runtimes
 
 <p align="left" style="line-height:0;">
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=latex" height="48" alt="LaTeX" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" style="display:inline-block;vertical-align:middle;margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=c" width="64" height="64" alt="C" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=latex" width="64" height="64" alt="LaTeX" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=markdown" width="64" height="64" alt="Markdown" style="display:inline-block;vertical-align:middle;margin:8px;" />
 
-  <!-- Assembly (fallback) — styled on the <img> so GitHub preserves the tile -->
+  <!-- Assembly fallback: single <img> with tile-style so it visually matches skillicons -->
   <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cpu.svg"
        alt="Assembly (fallback)"
        title="Assembly (fallback)"
-       width="26" height="26"
-       style="background:#1e293b;padding:10px;border-radius:12px;margin:6px;border:1px solid rgba(255,255,255,0.06);display:inline-block;box-sizing:border-box;vertical-align:middle;" />
+       style="width:26px;height:26px;background:#1e293b;padding:18px;border-radius:14px;margin:8px;border:1px solid rgba(255,255,255,0.06);display:inline-block;box-sizing:border-box;vertical-align:middle;" />
 </p>
 
 - **Assembly** — https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cpu.svg (fallback)  
@@ -41,11 +40,11 @@
 ## Dev Tools & Shells
 
 <p align="left" style="line-height:0;">
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="48" alt="PowerShell" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" style="display:inline-block;vertical-align:middle;margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=bash" width="64" height="64" alt="Bash" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=powershell" width="64" height="64" alt="PowerShell" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="64" height="64" alt="VS Code" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" style="display:inline-block;vertical-align:middle;margin:8px;" />
 </p>
 
 - **Bash** — https://cdn.simpleicons.org/gnubash  
@@ -59,16 +58,15 @@
 ## Operating Systems
 
 <p align="left" style="line-height:0;">
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" style="display:inline-block;vertical-align:middle;margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" style="display:inline-block;vertical-align:middle;margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="64" height="64" alt="Linux" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=windows" width="64" height="64" alt="Windows" style="display:inline-block;vertical-align:middle;margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="64" height="64" alt="Ubuntu" style="display:inline-block;vertical-align:middle;margin:8px;" />
 
-  <!-- Windows Terminal (official SVG) — styled on the <img> so it matches the tiles -->
+  <!-- Windows Terminal (official SVG) styled on the <img> so it matches the tiles -->
   <img src="https://raw.githubusercontent.com/microsoft/terminal/main/res/terminal/Terminal.svg"
        alt="Windows Terminal"
        title="Windows Terminal"
-       width="28" height="28"
-       style="background:#1e293b;padding:10px;border-radius:12px;margin:6px;border:1px solid rgba(255,255,255,0.06);display:inline-block;box-sizing:border-box;vertical-align:middle;" />
+       style="width:28px;height:28px;background:#1e293b;padding:18px;border-radius:14px;margin:8px;border:1px solid rgba(255,255,255,0.06);display:inline-block;box-sizing:border-box;vertical-align:middle;" />
 </p>
 
 - **Linux** — https://cdn.simpleicons.org/linux  
