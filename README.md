@@ -6,7 +6,7 @@ Always eager to learn, build, and collaborate.
 - 🔭 Currently working on OS, and other projects.
 - 🌱 **Learning:** low-level systems, OS design, and production-ready ML.
 - 👯 Open to collaborations on system-level tools, OS experiments, and ML pipelines.
-- 📫 **Reach me**: check my LinkedIn / Instagram (mentioned on my profile).
+- 📫 **Reach me**: Email / LinkedIn / Instagram (mentioned on my profile).
 
 ## 🛠️ Main projects:
 - **`DS_Bootcamp`** - Data structures bootcamp material and implementations.  
