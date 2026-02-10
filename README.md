@@ -55,6 +55,12 @@ Always eager to learn, build, and collaborate.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullkernel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🔭 Future goals:
 - Build & polish an **OS** - production-quality OS experimentation.  
 - Publish reproducible tooling & driver/driver-qa flows for system projects.  
