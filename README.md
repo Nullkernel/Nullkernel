@@ -51,14 +51,14 @@ Always eager to learn, build, and collaborate.
 </p>
 
 ## 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&hide_border=true)
 
 ## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔭 Future goals:
 - Build & polish an **OS** - production-quality OS experimentation.  
