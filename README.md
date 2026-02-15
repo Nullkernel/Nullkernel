@@ -15,7 +15,7 @@ Always eager to learn, build, and collaborate.
 - **`AutoTap`** - Lightweight automation / auto-clicker utility.  
 
 ## 💻 Tech & Tools:
-## Frontend / Web:
+### Frontend / Web:
 <p align="left" style="line-height:0;">
   <!-- skillicons tiles (already rounded) -->
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" style="display:inline-block;vertical-align:middle;margin:6px;" />
@@ -23,7 +23,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 
-## Languages / Runtimes:
+### Languages / Runtimes:
 
 <p align="left" style="line-height:0;">
   <!-- skillicons tiles -->
@@ -34,7 +34,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 
-## Dev Tools & Shells:
+### Dev Tools & Shells:
 <p align="left" style="line-height:0;">
   <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=powershell" height="48" alt="PowerShell" style="display:inline-block;vertical-align:middle;margin:6px;" />
@@ -43,7 +43,7 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 
-## Operating Systems:
+### Operating Systems:
 <p align="left" style="line-height:0;">
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" style="display:inline-block;vertical-align:middle;margin:6px;" />
   <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" style="display:inline-block;vertical-align:middle;margin:6px;" />
@@ -53,7 +53,7 @@ Always eager to learn, build, and collaborate.
 ## 📈 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=true)<br/>
 
-## 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## ✍️ Random Dev Quote:
